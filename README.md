@@ -10,3 +10,9 @@
 - [ ] 收藏功能(将文件/文件夹添加收藏, 使用 CoreData 保存到本地)
 - [x] 倍速播放功能
 - [ ] 分享解析
+
+
+## Buy me a coffee ☕️
+
+- [支付宝](https://github.com/FaiChou/uCopy/blob/main/oss/ali.JPG?raw=true)
+- [微信](https://github.com/FaiChou/uCopy/blob/main/oss/wechat.JPG?raw=true)
