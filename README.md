@@ -1,5 +1,10 @@
 # Alplayer
 
+<div align="center">
+
+![icon](https://github.com/FaiChou/Aliplayer_About/blob/main/Icon400w.png?raw=true)
+
+</div>
 
 
 ## TODO & Features:
