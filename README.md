@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![icon](https://github.com/FaiChou/Aliplayer_About/blob/main/Icon400w.png?raw=true)
+![icon](https://github.com/FaiChou/Aliplayer_About/blob/main/icon500.png?raw=true)
 
 </div>
 
