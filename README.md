@@ -6,7 +6,20 @@
 
 </div>
 
-## 功能介绍:
+## 📲 商店链接
+
+### tf链接：
+
+https://testflight.apple.com/join/6R6lYvBn
+
+### 商店链接：
+
+https://apps.apple.com/us/app/alplayer/id1660917007
+
+
+### tvOS 应用商店搜索 Alplayer 安装商店版本
+
+## 👀 功能介绍:
 
 - [x] 支持阿里云盘
 - [x] 支持夸克网盘
@@ -25,7 +38,7 @@
 - [x] iCloud 同步登录以及常用设置信息
 
 
-## 常见问题
+## 🤯 常见问题
 
 
 #### 看不到其他网盘入口？
@@ -70,7 +83,7 @@
 
 注意此功能是app功能, 不会影响原网盘
 
-## Pro 版本有哪些功能?
+## 🤑 Pro 版本有哪些功能?
 
 #### 第三方字幕
 
@@ -92,7 +105,14 @@
 
 iCloud 备份后，重装应用就不用再次扫码登录了，会自动恢复之前登录过的账号信息
 
-## Buy me a coffee ☕️
+
+## 💬 群组&频道
+
+[TG 频道 Alplayer Channel](https://t.me/alplayer_channel)
+
+[TG 群组 Alplayer](https://t.me/+KqyPiIEiqM4zMjk1)
+
+## ☕️ Buy me a coffee
 
 - [支付宝](https://github.com/FaiChou/uCopy/blob/main/oss/ali.JPG?raw=true)
 - [微信](https://github.com/FaiChou/uCopy/blob/main/oss/wechat.JPG?raw=true)
