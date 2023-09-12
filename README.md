@@ -32,7 +32,7 @@ https://apps.apple.com/us/app/alplayer/id1660917007
 - [x] 预览 TXT PDF Markdown 等文档
 - [x] iCloud 同步登录以及常用设置信息
 
-## 支持的网盘
+## ☁️ 支持的网盘
 
 - [x] 阿里云盘
 - [x] 百度网盘
