@@ -32,9 +32,9 @@ https://apps.apple.com/us/app/alplayer/id1660917007
 - [x] 预览 TXT PDF Markdown 等文档
 - [x] iCloud 同步登录以及常用设置信息
 - [x] mp3/flac/wav 等音乐文件播放
-- [ ] 第三方字幕搜索功能
+- [x] 第三方字幕搜索功能
+- [x] 更换图标功能
 - [ ] 历史播放列表
-- [ ] 更换图标功能
 
 ## ☁️ 支持的网盘
 
