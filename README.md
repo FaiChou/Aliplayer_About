@@ -34,7 +34,7 @@ https://apps.apple.com/us/app/alplayer/id1660917007
 - [x] mp3/flac/wav 等音乐文件播放
 - [x] 第三方字幕搜索功能
 - [x] 更换图标功能
-- [ ] 历史播放列表
+- [x] 历史播放列表
 
 ## ☁️ 支持的网盘
 
